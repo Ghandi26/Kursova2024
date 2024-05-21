@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <user name="Безымянный">
+    <id>0</id>
+    <pass></pass>
+    <score>0</score>
+    <record>0</record>
+    <level>1</level>
+    <levelScore>0</levelScore>
+    <timeInGame>19.05.2024 00:00:00</timeInGame>
+    <numberOfGames>0</numberOfGames>
+    <money>0</money>
+    <last>true</last>
+  </user>
+</users>
